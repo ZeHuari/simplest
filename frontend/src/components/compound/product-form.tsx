@@ -155,7 +155,7 @@ function ProducForm({
 							}}
 							disabled={loading}
 						>
-							{isEdit ? "Guardar cambios" : "Agregar liquidación"}
+							{isEdit ? "Guardar cambios" : "Agregar producto"}
 						</Button>
 					</DialogClose>
 				</DialogFooter>
